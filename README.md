@@ -7,4 +7,4 @@
 
 <p><strong>Website Preview</strong></p>
 
-<p><img src="https://github.com/LawrenceCastillo/LawrenceCastillo.github.io/blob/master/WebPreview/WebPreview.png">
+<p><img src="https://github.com/LawrenceCastillo/LawrenceCastillo.github.io/blob/master/images/preview/WebPreview.png">
