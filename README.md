@@ -1,4 +1,4 @@
-# LawrenceCastillo.github.io
+# EstoriaCaptures.github.io
 <p>Personal website for headshot photography (sole-proprietorship registered in the state of New York).</p>
 
 <p><a href="http://lawrence-gabriel.com">Lawrence-gabriel.com</a>
