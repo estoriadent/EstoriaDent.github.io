@@ -156,9 +156,9 @@ footer a:hover { color: #000; } /* remove if not used */
     
     /* Header */
     
-    header { height: 350px; background: url(../images/banner/lawrence-gabriel-castillo-headshots-nyc-actress-brianne-berriman-435.jpg) no-repeat center bottom; position: relative; }
+    header { height: 550px; background: url(../images/banner/lawrence-gabriel-castillo-headshots-nyc-actress-brianne-berriman-435.jpg) no-repeat center bottom; position: relative; }
     
-    header a.logo { width: 100px; height: 73px; }
+    header a.logo { width: 300px; height: 73px; }
     
     header div.hero { top: 305px; }
     header div.hero h1 { margin-bottom: 10px; }
