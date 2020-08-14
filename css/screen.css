@@ -23,16 +23,20 @@ a.button:hover { background-color: rgba(0,0,0,.3); }
 
 /* Header */
 
-header { height: 270px; background: #faffff url(../images/IMG_6702.JPG) no-repeat center bottom; position: relative; }
+header { height: 670px; background: #faffff url(../images/banner/estoria-dent-photographer-nyc-550.jpg) no-repeat center bottom; position: relative; }
 
-header a.logo { 
+#logotype { z-index: 1; position: absolute; top: .8em; color: #333340; font-size: 2.8em; text-decoration: none; }
+
+/* If you want to use a logo again, un-comment this code */
+
+/* header a.logo { 
     z-index: 1;
     position: absolute; 
     display: block; width: 320px; height: 78px;
     background: url(../images/lawrence-gabriel-castillo-headshots-nyc-logo.png) no-repeat 0 0; background-size: contain;
     top: 20px; left: 20px;
 }
-header a.logo span { display: none; }
+header a.logo span { display: none; } */
 
 header div.hero { position: absolute; width: 42%; top: 350px; left: 55%; }
 header div.hero h1 { line-height: 1.2em; margin: 0 0 20px 0; color: #faffff; }
@@ -92,7 +96,7 @@ nav {
 
 nav::after { content:''; display: block; clear: both; }
 
-nav ul { list-style: none; margin: 0; padding 0; }
+nav ul { list-style: none; margin: 0; padding: 0; }
 
 nav ul li a { 
     display: inline-block;
@@ -156,7 +160,7 @@ footer a:hover { color: #000; } /* remove if not used */
     
     /* Header */
     
-    header { height: 550px; background: url(../images/banner/lawrence-gabriel-castillo-headshots-nyc-actress-brianne-berriman-435.jpg) no-repeat center bottom; position: relative; }
+    header { height: 550px; background: url(../images/banner/estoria-dent-photographer-nyc-435.jpg) no-repeat center bottom; position: relative; }
     
     header a.logo { width: 300px; height: 73px; }
     
@@ -194,7 +198,7 @@ footer a:hover { color: #000; } /* remove if not used */
     
     /* Header */
     
-    header { height: 476px; background: url(../images/banner/lawrence-gabriel-castillo-headshots-nyc-actress-brianne-berriman-366.jpg) no-repeat center bottom; position: relative; }
+    header { height: 476px; background: url(../images/banner/estoria-dent-photographer-nyc-366.jpg) no-repeat center bottom; position: relative; }
     
     header a.logo { width: 258px; height: 63px; }
     
@@ -237,11 +241,11 @@ footer a:hover { color: #000; } /* remove if not used */
     
     /* Header */
     
-    header { height: 800px; background: url(../images/banner/lawrence-gabriel-castillo-headshots-nyc-actress-brianne-berriman-690.jpg) no-repeat center bottom; position: relative; }
+    header { height: 800px; background: url(../images/banner/estoria-dent-photographer-nyc-690.jpg) no-repeat center bottom; position: relative; }
     
     header a.logo { width: 258px; height: 63px; }
     
-    header div.hero { top: 350px; left: 45%; }
+    header div.hero { top: 400px; left: 45%; }
     header div.hero h1 { margin-bottom: 10px; }
     
     /* section - Main */
@@ -284,7 +288,7 @@ footer a:hover { color: #000; } /* remove if not used */
     
     /* Header */
     
-    header div.hero { top: 320px; left: 40%; }
+    header div.hero { top: 400px; left: 40%; }
     
     /* section - Main */
     
